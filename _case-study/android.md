@@ -16,3 +16,5 @@ gallery:
 ---
 
 {% include_relative cs-andoid.md %}
+
+{% include slides.html %}
