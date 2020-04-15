@@ -11,7 +11,7 @@ tags:
   - google
   - success
 gallery:
-  - image_url: /images/andoid_logo.jpg
+  - image_url: /images/android_logo.jpg
     caption: "H έμπνευση για το λογότυπο δεν ήρθε από τον R2D2 των Star Wars όπως πολλοί πιστεύουν, αλλά ήταν τυχαία επιλογή από πολλά διαφορετικά σχέδια. Το πράσινο χρώμα στο λογότυπο αντιπροσωπεύει την ανάπτυξη και την ευημερία. "
 ---
 
