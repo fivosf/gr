@@ -16,7 +16,7 @@ name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://fivos-gr.netlify.app"
 baseurl                  : ""
-repository               : " fivosf/gr"
+repository               : "fivosf/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -43,12 +43,12 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "fivosarg"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : #Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -72,7 +72,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "fivosf"
   gitlab           :
   google_plus      :
   keybase          :
@@ -84,7 +84,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/fivosarg"
   vine             :
   weibo            :
   xing             :
