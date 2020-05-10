@@ -286,3 +286,11 @@ defaults:
       header: no
       show_meta: false
       share: true
+  - scope:
+      path: ""
+      type: remix
+    values:
+      layout: single
+      header: no
+      show_meta: false
+      share: true
