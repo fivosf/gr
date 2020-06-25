@@ -9,7 +9,6 @@ categories:
 tags:
   - Douglas Carl Engelbart
   - Computer mouse
-  - Bret Victor
   - Hypertext
   - Augmentation Research Center
 gallery:
