@@ -19,6 +19,6 @@ gallery:
     caption: "Η δουλειά του Engelbart αποτέλεσε βάση για τη δημιουργία αρκετών τεχνολογιών που χρησιμοποιούμε σήμερα, η φιλοσοφία του ποντικιού ως αντικείμενο διάδρασης με τους υπολογιστές παραμένει ίδια ακόμα και σήμερα."
 ---
 
-{% include_relative engelbart.md %}
+{% include_relative bio-engelbart.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Douglas Carl Engelbart" %}
