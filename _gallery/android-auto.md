@@ -1,5 +1,5 @@
 ---
-author: fivof
+author: fivosf
 title: Android auto
 image_url: /images/android-auto.jpg
 caption: 'Το android auto είναι μια εφαρμογή που κατασκευάστηκε από την google και  έχει στόχο να μεταφέρει της δυνατότητες του android στα ενσωματωμένα συστήματα των αυτοκινήτων.'
