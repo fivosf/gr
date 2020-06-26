@@ -12,8 +12,8 @@ tags:
   - Google home
   - Ai
 gallery:
-  - image_url: /images/atm-affective.png
-    caption: ""
+  - image_url: /images/google_home.jpg
+    caption: "Το google home είναι μια συσκευή έξυπνου σπιτιού η οποία ενσωματώνει το google assistant"
 ---
 
 {% include_relative cs-google-assistant.md %}
