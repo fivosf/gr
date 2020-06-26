@@ -1,5 +1,5 @@
 ---
-author: p13sian
+author: fivosf
 title: "Douglas Carl Engelbart"
 image_url: /images/engelbart.jpg
 caption: "Ο Douglas Carl Engelbart ήταν Αμερικανός μηχανικός και εφευρέτης. Είναι γνωστός ως o άνθρωπος που καθιέρωσε τον όρο «επικοινωνία ανθρώπου υπολογιστή (Human–Computer Interaction) HCI», τη δημιουργία του ποντικιού που χρησιμοποιούμε για την αλληλεπίδρασή μας με τον υπολογιστή αλλά και για τη δημιουργία του hypertext."
