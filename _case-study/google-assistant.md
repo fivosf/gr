@@ -1,7 +1,7 @@
 ---
 author: fivosf
 title: "Google Assistant"
-image_url: /images/google_assistant.jpg
+image_url: /images/google-assistant.jpg
 caption: ""
 categories:
   - case-study
@@ -12,7 +12,7 @@ tags:
   - Google home
   - Ai
 gallery:
-  - image_url: /images/google_home.jpg
+  - image_url: /images/google-home.jpg
     caption: "Το google home είναι μια συσκευή έξυπνου σπιτιού η οποία ενσωματώνει το google assistant"
 ---
 
