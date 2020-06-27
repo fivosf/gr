@@ -2,7 +2,7 @@
 author: fivosf
 title: "Google Assistant"
 image_url: /images/google-assistant.jpg
-caption: "To google assistant είναι ένα ψηφιακός βοηθός με λειτουργίες τεχνητής νοημοσύνης ο οποίος κατασκευάστηκε από την google και τρέχει σε κινητές συσκευές και σε συσκευές έξυπνων σπιτιών (Google home). "
+caption: "To google assistant είναι ένας ψηφιακός βοηθός με λειτουργίες τεχνητής νοημοσύνης ο οποίος κατασκευάστηκε από την google και τρέχει σε κινητές συσκευές και σε συσκευές έξυπνων σπιτιών (Google home). "
 categories:
   - case-study
 tags:
